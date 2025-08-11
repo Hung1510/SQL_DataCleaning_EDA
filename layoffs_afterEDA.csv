@@ -1,0 +1,56 @@
+analysis_section,metric_name,metric_value,detail_1,detail_2,detail_3
+basic_stats,"Min Percentage Laid Off",0,NULL,NULL,NULL
+basic_stats,"Max Percentage Laid Off",1,NULL,NULL,NULL
+basic_stats,"Max Single Layoff",12000,NULL,NULL,NULL
+top_companies,"Top Company",10000,Philips,NULL,NULL
+top_companies,"Top Company",10000,Microsoft,NULL,NULL
+top_companies,"Top Company",10090,Salesforce,NULL,NULL
+top_companies,"Top Company",11000,Meta,NULL,NULL
+top_companies,"Top Company",12000,Google,NULL,NULL
+top_companies,"Top Company",18150,Amazon,NULL,NULL
+top_companies,"Top Company",4601,Booking.com,NULL,NULL
+top_companies,"Top Company",6650,Dell,NULL,NULL
+top_companies,"Top Company",7585,Uber,NULL,NULL
+top_companies,"Top Company",8500,Ericsson,NULL,NULL
+yearly_totals,"Yearly Total",124077,2023,NULL,NULL
+yearly_totals,"Yearly Total",15823,2021,NULL,NULL
+yearly_totals,"Yearly Total",159611,2022,NULL,NULL
+yearly_totals,"Yearly Total",500,NULL,NULL,NULL
+yearly_totals,"Yearly Total",80928,2020,NULL,NULL
+rolling_totals,"Rolling Total",10058,2020-03,NULL,NULL
+rolling_totals,"Rolling Total",101446,2022-02,NULL,NULL
+rolling_totals,"Rolling Total",107160,2022-03,NULL,NULL
+rolling_totals,"Rolling Total",111288,2022-04,NULL,NULL
+rolling_totals,"Rolling Total",124173,2022-05,NULL,NULL
+rolling_totals,"Rolling Total",140817,2022-06,NULL,NULL
+rolling_totals,"Rolling Total",157040,2022-07,NULL,NULL
+rolling_totals,"Rolling Total",170095,2022-08,NULL,NULL
+rolling_totals,"Rolling Total",175976,2022-09,NULL,NULL
+rolling_totals,"Rolling Total",193382,2022-10,NULL,NULL
+rolling_totals,"Rolling Total",246533,2022-11,NULL,NULL
+rolling_totals,"Rolling Total",256862,2022-12,NULL,NULL
+rolling_totals,"Rolling Total",341576,2023-01,NULL,NULL
+rolling_totals,"Rolling Total",36768,2020-04,NULL,NULL
+rolling_totals,"Rolling Total",376469,2023-02,NULL,NULL
+rolling_totals,"Rolling Total",380939,2023-03,NULL,NULL
+rolling_totals,"Rolling Total",500,NULL,NULL,NULL
+rolling_totals,"Rolling Total",62572,2020-05,NULL,NULL
+rolling_totals,"Rolling Total",70199,2020-06,NULL,NULL
+rolling_totals,"Rolling Total",77311,2020-07,NULL,NULL
+rolling_totals,"Rolling Total",79280,2020-08,NULL,NULL
+rolling_totals,"Rolling Total",79889,2020-09,NULL,NULL
+rolling_totals,"Rolling Total",80339,2020-10,NULL,NULL
+rolling_totals,"Rolling Total",80576,2020-11,NULL,NULL
+rolling_totals,"Rolling Total",81428,2020-12,NULL,NULL
+rolling_totals,"Rolling Total",88241,2021-01,NULL,NULL
+rolling_totals,"Rolling Total",89109,2021-02,NULL,NULL
+rolling_totals,"Rolling Total",89156,2021-03,NULL,NULL
+rolling_totals,"Rolling Total",89417,2021-04,NULL,NULL
+rolling_totals,"Rolling Total",91851,2021-06,NULL,NULL
+rolling_totals,"Rolling Total",91931,2021-07,NULL,NULL
+rolling_totals,"Rolling Total",93798,2021-08,NULL,NULL
+rolling_totals,"Rolling Total",93959,2021-09,NULL,NULL
+rolling_totals,"Rolling Total",93981,2021-10,NULL,NULL
+rolling_totals,"Rolling Total",96051,2021-11,NULL,NULL
+rolling_totals,"Rolling Total",97251,2021-12,NULL,NULL
+rolling_totals,"Rolling Total",97761,2022-01,NULL,NULL
